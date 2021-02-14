@@ -1,6 +1,7 @@
 ![banner-rosepernia](https://raw.githubusercontent.com/rosepernia/rosepernia/master/banner-git.png)
 ### Hi there 👋
-I´m Rosa, a junior full-stack developer 🌱 I’m currently learning about Vue.js and MongoDB. I would like to specialize in front-end to translate user-focused designs into pixel-perfect websites.
+I´m Rosa, a junior full-stack developer.
+🌱 I’m currently learning about Vue.js and MongoDB. I would like to specialize in front-end to translate user-focused designs into pixel-perfect websites.
 <!--
 **rosepernia/rosepernia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
