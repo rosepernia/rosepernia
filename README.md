@@ -1,5 +1,5 @@
 ![banner-rosepernia](https://raw.githubusercontent.com/rosepernia/rosepernia/master/banner-git.png)
-### Hi there ![gif-saludo](https://raw.githubusercontent.com/rosepernia/rosepernia/master/hello.gif)
+### Hi there 👋 
 I´m Rosa, a junior full-stack developer.
 🌱 I’m currently learning about Vue.js and MongoDB. I would like to specialize in front-end to translate user-focused designs into pixel-perfect websites.
 <!--
