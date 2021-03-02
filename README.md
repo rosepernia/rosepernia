@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills
+## &#128165; Skills
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/html5-icon.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/js-icon.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/vue-icon.png" />
-![icono](https://raw.githubusercontent.com/rosepernia/rosepernia/master/vue-icon.png)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/css-icon.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/vs.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/mongo.png" />
+
 
 
