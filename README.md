@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/vue-icon.png" />
 ![icono](https://raw.githubusercontent.com/rosepernia/rosepernia/master/vue-icon.png)
 
 
