@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
+<img align="left" alt="Visual Studio Code" width="26px" 
+src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/vue-icon.png"
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 
