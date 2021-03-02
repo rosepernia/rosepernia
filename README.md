@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 -->
 
 ## &#128165; Skills
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/vs.png" />
-<img align="left" alt="Html5" width="50px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/html5.png" />
-<img align="left" alt="Css3" width="50px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/css.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/js-icon.png" />
-<img align="left" alt="VueJS" width="50px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/vue-icon.png" />
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/mongo.png" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/vs.png" />
+<img align="left" alt="Html5" width="40px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/html5.png" />
+<img align="left" alt="Css3" width="40px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/css.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/js-icon.png" />
+<img align="left" alt="VueJS" width="40px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/vue-icon.png" />
+<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/mongo.png" />
 
 
 
