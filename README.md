@@ -1,5 +1,5 @@
 ![banner-rosepernia](https://raw.githubusercontent.com/rosepernia/rosepernia/master/banner-git.png)
-### Hola, soy Rosa Pernía <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hola, soy Rosa Pernía <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
 * ⚡ Soy una desarrolladora web Fullstack de Madrid.
 * 🔭 Busco participar en proyectos que apuesten por la innovación y la experiencia de usuario.
@@ -7,7 +7,7 @@
 
 >
 
-### Stack <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="40px">
+## Stack <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="40px">
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/vs.png" />
 <img align="left" alt="Html5" width="40px" src="https://raw.githubusercontent.com/rosepernia/rosepernia/master/html5.png" />
